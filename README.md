@@ -18,6 +18,6 @@ All the projects in which I take/took part
 ## Events And Management
 - [Gamers Assembly](https://www.gamers-assembly.net/) - Co-organized the biggest event from the Gamers Assembly 2020: the Joueurs Libres.
 - FullSpeed League - The Biggest FullSpeed Competition in TrackMania.
-- [Numelops](https://twitter.com/numelopsasso) - Co Founder and Manager of the Numelops TrackMania Esport Team, currently ranked #1 in the best team in the world.
+- [Numelops](https://twitter.com/numelopsasso) - Co Founder and Manager of the Numelops TrackMania Esport Team, currently [ranked #1](https://trackmaniaopen.com/tm-rankings/team-rankings/) amongst the best teams in the world.
 - Spheriz Cup - A LAN I co-organized. This LAN has been nominated as one of the [Best Offline Events of the Year](https://twitter.com/EirikHoldal/status/1248220765792677888) of 2019
 - [TrackMania News](https://twitter.com/Trackmania_News) - Community Manager of the biggest TrackMania News platform, with several thousands of players actively following it.
